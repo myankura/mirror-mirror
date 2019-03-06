@@ -1,0 +1,16 @@
+#article1 {
+    border: solid green;
+}
+#article2 {
+    border: dotted blue;
+}
+#article1, #article2 {
+    height: 25px;
+    min-width: 50%;
+}
+.article_style {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+}
