@@ -11,22 +11,3 @@ messageEl.addEventListener("keyup", function(e) {
     outputEl.innerHTML = e.target.value;
     outputEl2.innerHTML = e.target.value;
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// fieldEl.addEventListener("keyup", function (event) {
-//     outputEl.innerHTML = event.target.value
-// })
